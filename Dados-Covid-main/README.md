@@ -29,10 +29,15 @@ Por meio desse sistema, é possível visualizar métricas como número de casos,
 
 - Python (Dash ou bibliotecas afins)  
 - HTML / CSS  
-- CSV (para os dados)  
+- CSV (para os dados)
+- Chatbot
 - Arquivo de configuração TOML  
 
 ---
 
 ## Arquivo em Junpy 
 https://colab.research.google.com/drive/1wvsj0_4fhpygG5EmbRmVt8_rsmf5yhs3?usp=sharing
+
+## 💻 Redes socias
+
+Linkedin: www.linkedin.com/in/joão-felipe-pacheco-ferreira-3896892b4
